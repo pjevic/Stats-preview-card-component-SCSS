@@ -7,8 +7,8 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://pjevic.github.io/Stats-preview-card-component-SCSS/)
+- [Live Site URL](https://pjevic.github.io/Stats-preview-card-component-SCSS/)
 
 ## Author
 
-- Frontend Mentor - [@pjevic](https://www.frontendmentor.io/profile/pjevic)
+- [@pjevic](https://www.frontendmentor.io/profile/pjevic)
